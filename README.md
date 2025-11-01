@@ -1,8 +1,8 @@
-# real-time-obj-tracker
+# Real Time Object Tracker
 
 Детекция объектов на видео в реальном времени
 
-# Клонировние репозитория
+# Клонирование репозитория
 
 ```shell
 git clone https://github.com/rntprch/real-time-obj-tracker.git
@@ -12,6 +12,7 @@ cd real-time-obj-tracker
 # Установка
 
 Установка и активация виртуального окружения:
+
 ```shell
 python3 -m venv .venv
 source .venv/bin/activate        # Linux/macOS
