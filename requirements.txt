@@ -1,0 +1,5 @@
+numpy
+torch
+ultralytics
+lap # For ByteTracking
+opencv-python
